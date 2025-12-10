@@ -10,7 +10,7 @@ DCGAN, convolutional VAE, PixelCNN, and DDPM, trained the CIFAR-10 dataset
 
 ![](https://github.com/sghassemlou/Generative-Models-Hardcoded/blob/master/Section1/artifacts/metrics%20summary.png "")
 ### PixelCNN NLL Estimate During Training (Baseline)
-![](https://github.com/sghassemlou/Generative-Models-Hardcoded/blob/master/Section1/artifacts/vae_nll_plot.png](https://github.com/sghassemlou/Generative-Models-Hardcoded/blob/master/Section1/artifacts/pixelcnn_nll_plot.png) "")
+![](https://github.com/sghassemlou/Generative-Models-Hardcoded/blob/master/Section1/artifacts/pixelcnn_nll_plot.png) "")
 ### VAE NLL Estimate During Training (Baseline)
 ![](https://github.com/sghassemlou/Generative-Models-Hardcoded/blob/master/Section1/artifacts/vae_nll_plot.png "")
 ### Aggregate Plots KID vs Inference Speed, Likelihood VS training Compute
