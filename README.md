@@ -1,4 +1,5 @@
 # Generative Models-Hardcode
+DCGAN, convolutional VAE, PixelCNN, DDPM, Diffusion with Classifier-Free guidance. 
 
 ## Comparison of Generative Paradigms on CIFAR-10 **[Section 1](https://github.com/sghassemlou/Generative-Models-Hardcoded/tree/master/Section1)**
 DCGAN, convolutional VAE, PixelCNN, and DDPM, trained the CIFAR-10 dataset
@@ -16,7 +17,7 @@ DCGAN, convolutional VAE, PixelCNN, and DDPM, trained the CIFAR-10 dataset
 ### Aggregate Plots KID vs Inference Speed, Likelihood VS training Compute
 ![](https://github.com/sghassemlou/Generative-Models-Hardcoded/blob/master/Section1/artifacts/aggregate_plots.png "")
 
-## Diffusion on MNIST: DDPM and Classifier-Free Guidance **[Section 2](https://github.com/sghassemlou/Generative-Models-Hardcoded/tree/master/Section1)**
+## Diffusion on MNIST: DDPM and Classifier-Free Guidance **[Section 2](https://github.com/sghassemlou/Generative-Models-Hardcoded/tree/master/Section2)**
 Implementing and compare two diffusion-based generative models on the MNIST datase
 
 [See Notebook](https://github.com/sghassemlou/Generative-Models-Hardcoded/blob/master/Section2/Diffusion_Notebook.ipynb)
